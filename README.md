@@ -1,11 +1,10 @@
 # A new paper
 
 ## TODO:
-[ ] Update project name in `pyproject.toml` and other files
-[ ] Update copyright year in `LICENSE` file
-[ ] Fill in this README with project-specific information
-[ ] Enable pre-commit.ci for this repo.
-
+- [ ] Update project name in `pyproject.toml` and other files
+- [ ] Update copyright year in `LICENSE` file
+- [ ] Fill in this README with project-specific information
+- [ ] Enable pre-commit.ci for this repo.
 
 ## License
 
