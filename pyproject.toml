@@ -19,12 +19,12 @@ test = [
 docs = [
 ]
 
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+# [build-system]
+# requires = ["hatchling"]
+# build-backend = "hatchling.build"
 
-[tool.hatch.metadata]
-allow-direct-references = true
+# [tool.hatch.metadata]
+# allow-direct-references = true
 
 # [tool.hatch.build.targets.wheel]
 # packages = ["src/TODO"]
