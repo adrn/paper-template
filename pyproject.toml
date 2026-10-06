@@ -1,7 +1,11 @@
 [project]
 name = "TODO"
 version = "0.1.0"
-license = { file = "LICENSE" }
+license = "MIT"
+license-files = [
+    "licenses/LICENSE",
+    "licenses/LICENSE-NONCODE",
+]
 requires-python = ">=3.12"
 dependencies = [
 ]
